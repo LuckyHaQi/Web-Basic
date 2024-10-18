@@ -1,6 +1,6 @@
 <?php
 echo '<html>';
-echo '<head><title>Cara 02</title></head>';
+echo '<head>Cara 02</head>';
 echo '<body>';
 echo '<p>Tanggal Hari ini: "' . date('d M Y') . '</p>';
 echo '</body>';
